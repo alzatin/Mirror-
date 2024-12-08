@@ -135,6 +135,18 @@
                 }
             ],
             "description": "Moves a shape laterally in X, Y, Z."
+        },
+        {
+            "atomType": "Import",
+            "name": "Import",
+            "x": 0.5616681455190772,
+            "y": 0.7278106508875739,
+            "uniqueID": 1733696145579,
+            "ioValues": [],
+            "description": "Import Atom, let's you choose a type of file to import and use in your design.",
+            "fileName": null,
+            "type": null,
+            "SVGwidth": 10
         }
     ],
     "allConnectors": [
